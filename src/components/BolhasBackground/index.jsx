@@ -31,8 +31,6 @@ export default function BolhasBackGround() {
             <span style={{ '--i': '9' }}></span>
             <span style={{ '--i': '8' }}></span>
             <span style={{ '--i': '13' }}></span>
-            <span style={{ '--i': '8' }}></span>
-            <span style={{ '--i': '13' }}></span>
         </div>
     )
 }
