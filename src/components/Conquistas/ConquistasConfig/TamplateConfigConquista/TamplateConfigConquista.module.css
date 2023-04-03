@@ -1,0 +1,32 @@
+.container{
+    position: absolute;
+    background-color: white;
+    top: 260px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid white;
+    box-shadow: 0 0 7px 1px white;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+}
+
+.input, .button{
+    width: 60%;
+    margin-right: 10px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.input::placeholder{
+    text-align: center;
+}
+
+.button{
+    background: black;
+    color: white;
+    width: 25%;
+    cursor: pointer;
+}

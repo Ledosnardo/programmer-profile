@@ -1,0 +1,62 @@
+.sobrePerfil{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sobrePerfil__img{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.sobrePerfil__img img{
+    width: 200px;
+    height: 200px;
+    border: 3px solid white;
+    border-radius: 180px;
+}
+
+.url{
+    margin-top: 130px;
+    position: absolute;
+    width: 23%;
+    display: flex;
+}
+
+.nome, .descricao, .urlImage, .btn__delete{
+    padding: 6px;
+    background: transparent;
+    text-align: center;
+    box-shadow: 0 0 7px 1px white;
+    border: 1px solid white;
+    color: white;
+    border-radius: 8px;
+}
+
+.urlImage{
+    width: 100%;
+    background-color: white;
+    color: black;
+}
+
+.btn__delete{
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.nome{
+    margin: 20px 0;
+    width: 70%;
+    font-size: 1.8em;
+}
+
+.descricao{
+    margin-top: 12px;
+    width: 65%;
+    height: 80px;
+}
+
+

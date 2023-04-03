@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "React - Js",
+        "id": 1,
+        "On": false
+    },
+    {
+        "nome": "React - Ts",
+        "id": 2,
+        "On": false
+    },
+    {
+        "nome": "Java Script",
+        "id": 3,
+        "On": false
+    },
+    {
+        "nome": "HTML",
+        "id": 4,
+        "On": false
+    },
+    {
+        "nome": "Css",
+        "id": 5,
+        "On": false
+    }
+]
