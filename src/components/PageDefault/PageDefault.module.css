@@ -18,10 +18,10 @@ body{
 }
 
 .container{
-    width: 80%;
+    width: 90%;
     height: 60%;
     background-color: #000000d8;
-    padding-bottom: 80px;
+    padding-bottom: 100px;
     position: absolute;
     border-radius: 20px;
     box-shadow: 0 0 10px 1px white;
